@@ -1,4 +1,4 @@
-# Hey, I'm Rasio <img src="https://github.com/rasatmaja/imageData/raw/master/wave.gif" width="30px">
+# Hey, I'm Rasio <img src="https://github.com/rasatmaja/rasatmaja/raw/master/assets/wave.gif" width="30px">
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rasatmaja)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rasatmaja/)
