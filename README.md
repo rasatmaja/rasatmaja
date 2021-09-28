@@ -1,4 +1,4 @@
-# Hey, I'm Rasio <img src="https://github.com/rasatmaja/rasatmaja/raw/master/assets/wave.gif" width="30px">
+## Hey, There 👋
 
 My name's Rasio Ganang Atmaja, I'm a Software Engineer, Early 2019 I was graduated with a computer science degree. Currently, I'm working for a media company called [IDN Media](https://www.idn.media/) as a Backend Engineer.
 
