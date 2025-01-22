@@ -1,5 +1,3 @@
-# **JWT RS512 signing method**
-
 **Issue type** :  
 
 - [ ] Possible Bug

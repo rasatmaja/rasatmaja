@@ -1,5 +1,3 @@
-# **JWT RS512 signing method**
-
 **Issues Number** : 387  
 
 **Pull request type** :  
